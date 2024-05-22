@@ -1,8 +1,8 @@
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World! It's me, NatálIA</h1></summary>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋;+It's+me+NatálIA!;" />
+</h1>
+
+![snake gif](https://github.com/natreis02/natreis02/blob/output/github-contribution-grid-snake.gif)
     
 <!-- Presentation -->
 ---
@@ -36,4 +36,7 @@ Created by Copilot
 
 ## Portfolio
 - - [Diabetes...](https://github.com/nataliareis/...)
+ 
+
+
     
