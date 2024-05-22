@@ -12,7 +12,7 @@ A little bout myself:
 * 📚 I have experience in Machine Learning.
 * 🎓 I have a Master's degree in Applied Mathematics from Unicamp and I am currently pursuing a Ph.D. in Applied Mathematics at Unicamp.
 * 🛠️ I am very interested in Data Mining and Data Science.
-* 📊 I am taking the "Data Analytic" course at Womakerscode.
+* 📊 I am taking the "Data Analytics" course at Womakerscode.
 
 ![image](https://github.com/natreis02/nataliareis/assets/89528948/323e14e7-d3f2-4de6-83a0-00338f7dcf3a)
 
